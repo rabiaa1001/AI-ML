@@ -121,7 +121,7 @@ class Gaussian(Distribution):
 		min_range = min(self.data)
 		max_range = max(self.data)
 		
-		 # calculates the interval between x values
+		# calculates the interval between x values
 		interval = 1.0 * (max_range - min_range) / n_spaces
 
 		x = []
