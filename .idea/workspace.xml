@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a76343b-3308-4962-a683-3a83c13f11bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MachineLearning/All_Distributions/Binomialdistribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/All_Distributions/Binomialdistribution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/All_Distributions/Gaussiandistribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/All_Distributions/Gaussiandistribution.py" afterDir="false" />
-    </list>
+    <list default="true" id="9a76343b-3308-4962-a683-3a83c13f11bd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
