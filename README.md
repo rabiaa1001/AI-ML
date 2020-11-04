@@ -1,6 +1,3 @@
 # Artificial Intelligence and Machine Learning
-
-## Deep Learning
-## AI
-## ML
+### More projects and updates coming...
 
