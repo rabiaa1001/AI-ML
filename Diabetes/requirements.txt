@@ -19,7 +19,7 @@ pandas==1.0.4
 pandas-profiling==2.8.0
 pandocfilters==1.4.2
 pickleshare==0.7.5
-Pillow==8.0.1
+Pillow==8.2.0
 protobuf==3.13.0
 protobuf3-to-dict==0.1.5
 regex==2020.6.8
